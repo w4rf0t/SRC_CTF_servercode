@@ -169,11 +169,10 @@ def setup():
     <div class="col-md-6 offset-md-3">
         <img class="w-100 mx-auto d-block" style="max-width: 500px;padding: 50px;padding-top: 14vh;" src="{default_ctf_banner_location}" />
         <h3 class="text-center">
-            <p>A cool CTF platform from <a href="https://ctfd.io">ctfd.io</a></p>
+            <p>A cool CTF platform from <a href="https://w4rf0t.github.io">w4rf0t</a></p>
             <p>Follow us on social media:</p>
-            <a href="https://twitter.com/ctfdio"><i class="fab fa-twitter fa-2x" aria-hidden="true"></i></a>&nbsp;
-            <a href="https://facebook.com/ctfdio"><i class="fab fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
-            <a href="https://github.com/ctfd"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/w4rf0t"><i class="fab fa-facebook fa-2x" aria-hidden="true"></i></a>&nbsp;
+            <a href="https://github.com/w4rf0t"><i class="fab fa-github fa-2x" aria-hidden="true"></i></a>
         </h3>
         <br>
         <h4 class="text-center">

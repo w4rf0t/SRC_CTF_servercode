@@ -7,6 +7,7 @@
 	</div>
 </div>
 <div class="container">
+	
 	<div class="row">
 		<div class="col-md-12">
 			<div class="float-right pb-3">
@@ -56,8 +57,11 @@
 {% endblock %}
 
 {% block scripts %}
+	<script defer src="{{ url_for('views.themes', theme='admin', path='js/echarts.bundle.js') }}"></script>
+	<script defer src="{{ url_for('views.themes', theme='admin', path='js/graphs.js') }}"></script>
 {% endblock %}
 
 {% block entrypoint %}
-	<script defer src="{{ url_for('views.themes', theme='admin', path='js/pages/scoreboard.js') }}"></script>
+	<script defer src="{{ url_for('views.themes', theme='admin', path='js/pages/statistics.js') }}"></script>
+	<!--<script defer src="{{ url_for('views.themes', theme='admin', path='js/pages/scoreboard.js') }}"></script>-->
 {% endblock %}
