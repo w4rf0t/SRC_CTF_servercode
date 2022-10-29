@@ -20,4 +20,4 @@
 ## Other informations:
 
 - I have added some challenges in this project.
-- This platform was copyright by CTFd.io and modifed by @w4rf0t.
+- This platform was copyright by CTFd.io, modifed by @w4rf0t and used neon themes.
