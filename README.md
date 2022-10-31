@@ -4,11 +4,14 @@
 ## Install
 
 1. Install dependencies: `pip3 install -r requirements.txt`
-   1. You can also use the `prepare.sh` script to install system dependencies using apt.
+   
+   - You can also use the `sudo ./prepare.sh` script to install system dependencies using apt.
+   
 2. Use `python3 serve.py` or `flask run` in a terminal to drop into debug mode.
 
 ## Configure verify email: 
 - To enable verify email in ***Admin Config*** Page
+
 - And then in `/CTFd/utils/email/smtp.py`, change the ***gmail_user*** ,***sent_from*** and ***gmail_password***   (gmail app password)
 ![image](https://user-images.githubusercontent.com/61643034/198817396-ed3c0b4e-db40-49e2-a010-0a3d821ba382.png)
 
@@ -20,4 +23,4 @@
 ## Other informations:
 
 - I have added some challenges in this project.
-- This platform was copyright by CTFd.io, modifed by @w4rf0t and used neon theme.
+- This platform was copyright by [CTFd.io](https://ctfd.io), modifed by [@w4rf0t](https://github.com/w4rf0t) and used neon theme.
