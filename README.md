@@ -10,7 +10,7 @@
 2. Use `python3 serve.py` or `flask run` in a terminal to drop into debug mode.
 
 ## Configure verify email: 
-- To enable verify email in ***Admin Config*** Page
+- To enable verify email, choose ***Enable*** in ***Admin Config*** Page
 
 - And then in `/CTFd/utils/email/smtp.py`, change the ***gmail_user*** ,***sent_from*** and ***gmail_password***   (gmail app password)
 ![image](https://user-images.githubusercontent.com/61643034/198817396-ed3c0b4e-db40-49e2-a010-0a3d821ba382.png)
